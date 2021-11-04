@@ -9,3 +9,5 @@ Performing analysis on Kickstarter data to uncover trends.
 *abcd*
 
 abcd
+
+![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
