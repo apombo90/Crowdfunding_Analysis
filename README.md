@@ -11,3 +11,5 @@ Performing analysis on Kickstarter data to uncover trends.
 abcd
 
 ![Outcomes_vs_Goals.png](Resources/Outcomes_vs_Goals.png)
+
+![Theater_Outcomes_vs_Launch.png](Resources/Theater_Outcomes_vs_Launch.png)
